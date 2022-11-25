@@ -6,16 +6,16 @@ function upperCaseCustomerName(){
 }
 
 function setBestCustomer(){
-    bestCustomer = 'not bob'
+     return bestCustomer = 'not bob';
 
 }
  function overwriteBestCustomer(){
-    bestCustomer = 'maybe bob'
+     return bestCustomer = 'maybe bob';
  } 
 
  const leastFavoriteCustomer = "customer";
   function changeLeastFavoriteCustomer(){
-    leastFavoriteCustomer = 'favorite'
+   return leastFavoriteCustomer = 'favorite';
 
   }
 
